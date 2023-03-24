@@ -1,6 +1,7 @@
-# Vision and Language Pre-trainin
 
 * Update 2023.03.24
+
+## Vision and Language Pre-training
 
 ## Fashion VL
 * Masked Vision-language Transformer in Fashion : [[paper]](https://arxiv.org/abs/2210.15110) [[code]](https://github.com/GewelsJI/MVLT), *Machine Intelligence Research 2022*
@@ -10,5 +11,5 @@
 * FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval : [[paper]](https://arxiv.org/abs/2005.09801)
 
 
-# Fashion CLIP
+## Fashion CLIP
 * Contrastive language and vision learning of general fashion concepts : [[paper]](https://www.nature.com/articles/s41598-022-23052-9)
