@@ -9,4 +9,4 @@
 * Kaleido-BERT: Vision-Language Pre-training on Fashion Domain : [[paper]]([https://arxiv.org/abs/2207.08150](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhuge_Kaleido-BERT_Vision-Language_Pre-Training_on_Fashion_Domain_CVPR_2021_paper.pdf)) [[code]](https://github.com/mczhuge/Kaleido-BERT), *CVPR 2021*
 
 # Fashion CLIP
-* Contrastive language and vision learning of general fashion concepts : [[paper]]([https://www.nature.com/articles/s41598-022-23052-9]
+* Contrastive language and vision learning of general fashion concepts : [[paper]](https://www.nature.com/articles/s41598-022-23052-9)
