@@ -4,6 +4,7 @@
 ## Vision and Language Pre-training
 
 ## Fashion VL
+* FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks : [[paper]](https://arxiv.org/abs/2303.02483) [[code]](https://github.com/BrandonHanx/FAME-ViL), *CVPR 2023*
 * Masked Vision-language Transformer in Fashion : [[paper]](https://arxiv.org/abs/2210.15110) [[code]](https://github.com/GewelsJI/MVLT), *Machine Intelligence Research 2022*
 * FaD-VLP: Fashion Vision-and-Language Pre-training towards Unified Retrieval and Captioning : [[paper]](https://arxiv.org/abs/2210.15028), *EMNLP 2022*
 * FashionViL: Fashion-Focused Vision-and-Language Representation Learning : [[paper]](https://arxiv.org/abs/2207.08150) [[code]](https://github.com/BrandonHanx/mmf), *ECCV 2022*
