@@ -2,6 +2,8 @@
 * Update 2023.03.25
 
 ## Vision and Language Pre-training
+* Align before Fuse: Vision and Language Representation Learning with Momentum Distillation : [[paper]](https://arxiv.org/abs/2107.07651) [[code]](https://github.com/salesforce/ALBEF), *NeurIPS 2021*
+
 
 ## Fashion VL
 * FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks : [[paper]](https://arxiv.org/abs/2303.02483) [[code]](https://github.com/BrandonHanx/FAME-ViL), *CVPR 2023*
